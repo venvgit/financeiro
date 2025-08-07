@@ -1,0 +1,1 @@
+import React from 'react';function AdminPanelPage() { return (<div className="container mx-auto p-4"><h1 className="text-3xl font-bold mb-4">Admin Panel</h1><p>Manage all servers, users, and reports here.</p></div>);}export default AdminPanelPage;
