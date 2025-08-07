@@ -1,0 +1,1 @@
+import { LucideIcon } from 'lucide-react';function Icon({ name, size = 24 }) { return <LucideIcon name={name} size={size} />;}export default Icon;
