@@ -1,0 +1,1 @@
+import React from 'react';function UserPanelPage() { return (<div className="container mx-auto p-4"><h1 className="text-3xl font-bold mb-4">User Panel</h1><p>Manage your servers and account here.</p></div>);}export default UserPanelPage;
