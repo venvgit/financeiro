@@ -1,0 +1,1 @@
+import React from 'react';import { motion } from 'framer-motion';function Card({ title, description, children }) { return (<motion.div whileHover={{ scale: 1.02 }} className="bg-gray-800 text-white p-4 rounded-lg shadow-md"><h3 className="text-lg font-bold">{title}</h3><p className="text-sm">{description}</p>{children}</motion.div>);}export default Card;
